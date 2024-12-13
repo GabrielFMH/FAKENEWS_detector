@@ -1,2 +1,2 @@
 # FAKENEWS_detector
-# Detector de veracidad de noticias usando la API de Gemini
+# Detector de veracidad de noticias usando la API de Gemini y web scraping
